@@ -10,4 +10,3 @@ IISc Bengaluru: Third Project; Objective is to segment the part of breath which 
         <p>Results and objectives in PDF. Please download the PDF to view it: <a href="https://github.com/akansh12/breath_segmentation/raw/main/Results.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-https://github.com/akansh12/breath_segmentation/blob/main/README.md
